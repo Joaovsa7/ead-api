@@ -1,0 +1,29 @@
+{
+  "name": "ead-api",
+  "version": "0.0.1",
+  "description": "API para uma plataforma de cursos a distância",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joaovsa7/ead-api.git"
+  },
+  "keywords": [
+    "plataforma",
+    "EAD"
+  ],
+  "author": "joaovsa7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joaovsa7/ead-api/issues"
+  },
+  "homepage": "https://github.com/Joaovsa7/ead-api#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0"
+  }
+}
